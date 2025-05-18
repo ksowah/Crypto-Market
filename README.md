@@ -19,6 +19,9 @@ Check out a short demo of the app in action:
 
 
 
+https://github.com/user-attachments/assets/f3be6628-75a7-45f1-9ed4-bd7e981f878e
+
+
 ---
 
 ## SETUP GUIDE 🛠️  
